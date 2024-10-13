@@ -1,0 +1,6 @@
+-  Hi, I’m @AutadeVishal
+-  I’m interested in Penestration Testing.
+-  I’m currently Practicing AD Pentesting.
+-  Efficient  in Ethical Hacking.
+-  I’m looking to collaborate on Cyber Security Projects.
+-  Pronouns: He
