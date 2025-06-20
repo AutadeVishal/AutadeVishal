@@ -1,4 +1,6 @@
 -  Hi, I’m @AutadeVishal
 -  I’m interested in Penestration Testing.
 -  I’m currently Good at Pentesting Active Directories .
--  Pronouns: He
+-  Comfortable in DSA
+-  MERN Stack Developer
+-  Comfortable in Developing Applcation in React and Node JS
