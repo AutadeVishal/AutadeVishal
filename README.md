@@ -1,5 +1,4 @@
 -  Hi, I’m @AutadeVishal
--  I’m interested in Penestration Testing.
 -  I’m currently Good at Pentesting Active Directories .
 -  Comfortable in DSA
 -  MERN Stack Developer
