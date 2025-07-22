@@ -1,5 +1,3 @@
--  Hi, I’m @AutadeVishal
--  I’m currently Good at Pentesting Active Directories .
 -  Comfortable in DSA
 -  MERN Stack Developer
 -  Comfortable in Developing Applcation in React and Node JS
