@@ -1,3 +1,4 @@
 -  Comfortable in DSA
--  MERN Stack Developer
--  Comfortable in Developing Applcation in React and Node JS
+-  SWE Intern
+-  Comfortable in Developing Applcation in React,Node JS,Java.
+-  Knows AWS.
